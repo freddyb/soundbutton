@@ -23,4 +23,5 @@ h2 { font-weight: normal; margin: 2vw; }
   box-shadow: firebrick 2px 2px;
   border: 0;
   font-weight: bold;
+  border-radius: 10px;
 }
