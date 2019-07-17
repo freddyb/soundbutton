@@ -3,6 +3,7 @@ margin: 0;
 padding: 0;
 background-color: rebeccapurple;
 color: snow;
+font-family: sans-serif;
 
 }
 h1 { min-height: 20vh; margin: 2vw; }
