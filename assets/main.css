@@ -1,0 +1,26 @@
+html { 
+margin: 0;
+padding: 0;
+background-color: #444;
+color: snow;
+
+}
+h1 { min-height: 20vh; }
+h2 { font-weight: normal; } 
+
+
+
+.centered {
+  display: block;
+  margin: auto;
+  min-height: 10vh;
+  max-height: 20vh;
+  min-width: 20vw;
+  max-width: 33vw;
+  
+  color: snow;
+  background-color: crimson;
+  box-shadow: firebrick 2px 2px;
+  border: 0;
+  font-weight: bold;
+}
