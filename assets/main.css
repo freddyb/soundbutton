@@ -1,12 +1,12 @@
 html { 
 margin: 0;
 padding: 0;
-background-color: #444;
+background-color: rebeccapurple;
 color: snow;
 
 }
-h1 { min-height: 20vh; }
-h2 { font-weight: normal; } 
+h1 { min-height: 20vh; margin: 2vw; }
+h2 { font-weight: normal; margin: 2vw; } 
 
 
 
@@ -16,7 +16,7 @@ h2 { font-weight: normal; }
   min-height: 10vh;
   max-height: 20vh;
   min-width: 20vw;
-  max-width: 33vw;
+  max-width: 45vw;
   
   color: snow;
   background-color: crimson;
